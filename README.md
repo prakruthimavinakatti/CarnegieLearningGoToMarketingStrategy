@@ -1,4 +1,4 @@
-Developed a go-to-market Strategy for Carnegie Learning , an innovation education technology and curriculum provider for K-12 mathematics, litercay and much more.
+Developed a go-to-market Strategy for Carnegie Learning , an innovation education technology and curriculum provider for K-12 mathematics, litracy and much more.
 The presentation involves the following details:
 1. The 5C framework : Company, Context , Customer,Coompetition and Collaborator
 2. Value Proposition
